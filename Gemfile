@@ -31,6 +31,10 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'bootstrap-sass'
 gem 'simple_form'
+gem 'devise'
+gem 'will_paginate'
+gem 'popper_js', '~> 1.11', '>= 1.11.1'
+gem 'jquery-rails', '~> 4.3', '>= 4.3.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
